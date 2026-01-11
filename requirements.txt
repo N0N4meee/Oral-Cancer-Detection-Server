@@ -1,0 +1,6 @@
+streamlit
+tensorflow-cpu
+gdown
+numpy
+pillow
+opencv-python-headless
